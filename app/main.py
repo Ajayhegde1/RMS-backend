@@ -7,7 +7,7 @@ from fastapi.staticfiles import StaticFiles
 app = FastAPI()
 
 
-app.mount("/_next", StaticFiles(directory="/var/www/frontEndRMS/frontEnd/.next"), name="static")
+# app.mount("/_next", StaticFiles(directory="/var/www/frontEndRMS/frontEnd/.next"), name="static")
 app.add_middleware(
     CORSMiddleware,
     allow_origins=["*"], 

@@ -157,11 +157,47 @@ async def get_restaurant(restaurantUser_id: int, db: Session = Depends(get_db), 
     }
 
 @router.put("/update_restaurant/{restaurant_id}")
-async def update_restaurant(restaurant_id: int, request: Request, db: Session = Depends(get_db), token: str = Depends(JWTBearer())):
-    data = await request.json()
+async def update_restaurant(
+    restaurant_id: int,
+    request: Request,
+    logo_image: UploadFile = File(None),  # Optional logo image
+    cover_image: UploadFile = File(None),  # Optional cover image
+    db: Session = Depends(get_db),
+    token: str = Depends(JWTBearer()),
+):
+    # Extract JSON data from the request body
+    data = await request.form()
     logger.info(f"Received update request for restaurant ID: {restaurant_id} with data: {data}")
+
+    # Initialize image URLs
+    image_url_logo = None
+    image_url_cover = None
+
+    # Handle image uploads if provided
+    if logo_image:
+        try:
+            image_url_logo = await upload_image_to_spaces(logo_image)
+        except Exception as e:
+            logger.error(f"Failed to upload logo image: {e}")
+            raise HTTPException(status_code=500, detail="Failed to upload logo image")
+
+    if cover_image:
+        try:
+            image_url_cover = await upload_image_to_spaces(cover_image)
+        except Exception as e:
+            logger.error(f"Failed to upload cover image: {e}")
+            raise HTTPException(status_code=500, detail="Failed to upload cover image")
+
+    # Prepare update data dictionary
+    update_data = {key: value for key, value in data.items()}
+    if image_url_logo:
+        update_data['logo_svg'] = image_url_logo
+    if image_url_cover:
+        update_data['cover_photo_svg'] = image_url_cover
+
+    # Call the service to update restaurant
+    updated_restaurant = RestaurantService.update_restaurant(db=db, restaurant_id=restaurant_id, update_data=update_data)
     
-    updated_restaurant = RestaurantService.update_restaurant(db=db, restaurant_id=restaurant_id, update_data=data)
     if not updated_restaurant:
         logger.warning(f"Restaurant ID {restaurant_id} not found or inactive")
         raise HTTPException(status_code=404, detail="Restaurant not found")

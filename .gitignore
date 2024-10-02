@@ -9,7 +9,7 @@ build/
 # IDE and virtual environment files
 .idea/
 .vscode/
-venv/
+myenv/
 
 # Database files (if applicable)
 .sqlalchemy/
