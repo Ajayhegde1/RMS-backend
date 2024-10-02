@@ -1,0 +1,16 @@
+# Environment files
+.env
+
+# Build/dist files
+__pycache__/
+dist/
+build/
+
+# IDE and virtual environment files
+.idea/
+.vscode/
+venv/
+
+# Database files (if applicable)
+.sqlalchemy/
+rms.db
